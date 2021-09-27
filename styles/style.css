@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Grechen Fuemen', cursive;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.block {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+
+.snake {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+}
+
+.apple {
+    background-color: greenyellow;
+    width: 20px;
+    height: 20px;
+}
+
+.fooo {
+    background-color: greenyellow;
+    width: 20px;
+    height: 20px;
+}
