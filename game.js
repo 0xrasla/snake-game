@@ -4,7 +4,7 @@ let dir = 1;
 let cur_snake = [3, 2, 1]
 let score = 0;
 let speed = 0.8;
-let intervelTime = 50;
+let intervelTime = 200;
 let intervel = null;
 
 for (let i = 0; i < 900; i++) {
